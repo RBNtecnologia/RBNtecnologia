@@ -19,7 +19,6 @@ Nosso compromisso é entregar ambientes escaláveis, seguros e de alta performan
   <a href="mailto:rafael@rbntecnologia.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
   </a>
-
   <a href="https://wa.me/5511962141493" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
